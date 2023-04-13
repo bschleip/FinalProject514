@@ -1,2 +1,2 @@
-Hello this is my first file in my git repository
+Final project for math 514. 
 
